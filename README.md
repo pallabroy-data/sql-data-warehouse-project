@@ -141,6 +141,4 @@ You are free to **use, modify, and distribute** it with appropriate credit.
 ---
 
 ## 🙌 Acknowledgements
-Special thanks to [DataWithBaraa](https://github.com/DataWithBaraa/sql-data-warehouse-project)  
-for inspiration and foundational design ideas.  
-This version has been **enhanced and restructured** for educational and portfolio purposes.
+This project is inspired by [DataWithBaraa](https://github.com/DataWithBaraa/sql-data-warehouse-project) and his tutorial on SQL Data Warehouse. I have recreated and modified the project for learning purposes.
